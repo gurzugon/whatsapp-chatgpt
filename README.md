@@ -37,19 +37,19 @@ sudo docker-compose up
 
 ## Usage
 
-To use the bot, simply send a message with the `!gpt`/`!dalle` command followed by your prompt. For example:
+To use the bot, simply send a message with the `salam`/`gambau` command followed by your prompt. For example:
 
 GPT:
 
--   `!gpt What is the meaning of life?`
+-   `salam what is life?`
 
 DALLE:
 
--   `!dalle A frog with a red hat is walking on a bridge.`
+-   `gambau An extremist cosplayer.`
 
 ## Disable prefix
 
-You can disable the `!gpt`/`!dalle` prefix by setting `PREFIX_ENABLED` to `false` in the `.env` file.<br/>
+You can disable the `salam`/`galau` prefix by setting `PREFIX_ENABLED` to `false` in the `.env` file.<br/>
 If you disable the prefix, the bot will not support DALL-E, and only GPT will be used.
 
 ## Sending messages to yourself
