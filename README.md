@@ -49,7 +49,7 @@ DALLE:
 
 ## Disable prefix
 
-You can disable the `salam`/`galau` prefix by setting `PREFIX_ENABLED` to `false` in the `.env` file.<br/>
+You can disable the `salam`/`gambau` prefix by setting `PREFIX_ENABLED` to `false` in the `.env` file.<br/>
 If you disable the prefix, the bot will not support DALL-E, and only GPT will be used.
 
 ## Sending messages to yourself
